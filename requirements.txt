@@ -1,0 +1,5 @@
+jupyter
+geopandas[all]
+rasterio
+shapely
+pandas
